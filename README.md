@@ -1,0 +1,1 @@
+# An-IOT-and-ML-based-Soil-Fertility-Detector-and-Crop-Predictor-
